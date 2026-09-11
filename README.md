@@ -1,31 +1,36 @@
-# retail-sales-dashboard-excel
-Interactive Retail Sales Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, and KPI Cards.
-# Retail Sales Dashboard (Excel)
+# 📊 Retail Sales Dashboard (Excel)
 
-## Project Overview
-An interactive Retail Sales Dashboard created in Microsoft Excel to analyze sales performance using Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
+## Overview
+This project is an interactive Retail Sales Dashboard built in Microsoft Excel to analyze retail business performance. It uses Pivot Tables, Pivot Charts, KPI Cards, and Slicers to provide dynamic insights into sales and profitability.
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 ## Features
-- KPI Cards
-- Interactive Slicers
+- Interactive KPI Cards
 - Sales by Category
 - Monthly Sales Trends
 - Top 5 Products
 - Profit by Region
 - Sales Channel Distribution
+- Dynamic Slicers
 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Conditional Formatting
-
-## Dashboard Preview
-(Add your dashboard screenshot here)
+- Data Visualization
 
 ## Key Insights
 - Electronics generated the highest sales.
-- Online sales contributed the largest share.
-- Laptop was the top-selling product.
-- East region recorded the highest profit.
+- Laptop was the best-selling product.
+- East region achieved the highest profit.
+- Online sales contributed the largest share of total sales.
+
+## Skills Demonstrated
+- Data Analysis
+- Dashboard Design
+- Excel Reporting
+- Data Visualization
